@@ -1,0 +1,17 @@
+.container-obj {
+  display: flex;
+}
+
+.days {
+  display: flex;
+}
+
+.day {
+  width: 100px;
+  height: 80px;
+  border: 1px solid #465b90;
+}
+
+.label-obj {
+  margin-right: 40px;
+}

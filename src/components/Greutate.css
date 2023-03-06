@@ -1,0 +1,21 @@
+.container-weigth {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 100px;
+  height: 80px;
+}
+
+.count-days {
+  display: block;
+}
+
+.label-weigth {
+  margin-right: 16px;
+}
+
+.input {
+  border: 1px solid #465b90;
+}

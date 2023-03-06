@@ -1,0 +1,16 @@
+.bar-time {
+  width: 150px;
+  height: 400px;
+  margin-right: 20px;
+  border: 2px solid #65ae87;
+  background-color: white;
+  position: relative;
+}
+
+.bar-fill-time {
+  height: 50%;
+  background-color: #65ae87;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}

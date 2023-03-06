@@ -1,0 +1,103 @@
+.home-container {
+  font-family: "Josefin Sans", sans-serif;
+  height: 2000px;
+}
+
+.logo-header {
+  max-width: 30rem;
+  margin: 3rem 20rem 3rem;
+}
+
+.hero-page {
+  background-image: url(poza_cover.png);
+  background-size: cover;
+  background-position: center;
+  padding-left: 20rem;
+}
+
+.hero-page h1 {
+  color: white;
+  padding-top: 10rem;
+}
+
+.hero-page button {
+  margin-bottom: 10rem;
+  margin-top: 1rem;
+}
+
+.hero-page button:hover {
+  margin-bottom: 10rem;
+  margin-top: 1rem;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.24), 2px 2px 2px 0 rgba(0, 0, 0, 0.19);
+  color: white;
+  padding: 1rem;
+  background-color: #465b90;
+  transition: padding 0.5s;
+}
+
+.hero-page h1 span {
+  text-transform: uppercase;
+}
+
+.first-span {
+  font-weight: 300;
+}
+
+.hero-btn {
+  background-color: white;
+  border: none;
+  padding: 0.7rem 0.8rem;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #465b90;
+  font-size: 20px;
+}
+
+.details {
+  color: #465b90;
+  margin-top: 3rem;
+  margin-left: 20rem;
+  font-size: 20px;
+  margin-right: 20rem;
+}
+
+.details .howItsWork {
+  margin-top: 2rem;
+}
+
+.start-btn {
+  background-color: #465b90;
+  border: none;
+  padding: 0.9rem 0.8rem;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: medium;
+  color: white;
+  text-decoration: none;
+}
+
+.start-btn:hover {
+  padding: 1.1rem 1rem;
+  color: white;
+  transition: padding 0.5s;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.24), 2px 2px 2px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn-to-dashboard {
+  background-color: #65ae87;
+  border: none;
+  padding: 0.9rem 0.8rem;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: medium;
+  color: white;
+  text-decoration: none;
+  margin-left: 1.5rem;
+}
+
+.btn-to-dashboard:hover {
+  padding: 1.1rem 1rem;
+  color: white;
+  transition: padding 0.5s;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.24), 2px 2px 2px 0 rgba(0, 0, 0, 0.19);
+}
